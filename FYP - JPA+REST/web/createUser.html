@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create User</title>
+</head>
+<body>
+    <form method="POST" action="api/user/add">
+        <label>Username</label>
+        <input name="username"/>
+        <br/>
+        <label>E-mail</label>
+        <input name="email" />
+        <br/>
+        <label>Password</label>
+        <input name="password" />
+        <br/>
+        <label>Route Deviation</label>
+        <input name="routeDeviation" />
+        <br/>
+        <label>Emergency Contact ID</label>
+        <input name="emergencyContact" />
+        <br/>
+        <label>Description</label>
+        <TEXTAREA NAME="description" COLS=40 ROWS=6></TEXTAREA>
+        <br/>
+        <label>Car Driven</label>
+        <input name="carDriven" />
+        <br/>
+        <label>Location</label>
+        <input name="location" />
+        <br/>
+        <input type="submit" value="Submit" />
+    </form>
+
+</body>
+</html>

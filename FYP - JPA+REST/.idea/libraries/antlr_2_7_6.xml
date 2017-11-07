@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/hibernate-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/commons-collections-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/slf4j-simple-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/jta-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/c3p0-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/javassist-3.9.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/hibernate-entitymanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/mysql-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JPAMySQLRelationship2/lib/hibernate-commons-annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://Z:/Downloads/gson-2.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
